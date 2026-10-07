@@ -1,7 +1,4 @@
-> [!TIP]
-> Check out [Potassco Technologies](https://potassco.org/)
-
-# The history of `flaspland`
+# Welcome to `flaspland`
 
 <img src="https://i.imgur.com/9cNtWjs.gif" width="480" alt="Flatland animation">
 
@@ -18,3 +15,11 @@ Relevant repositories:
 * 🛤️ [flaspland toolkit](https://github.com/potassco/flaspland-toolkit)
 * 🛤️ [flaspland encodings](https://github.com/potassco/flaspland-encodings)
 
+---
+
+Ongoing efforts:
+* 📉 graph compression
+* ⚡ optimization
+* 🧮 formal proofs
+* 🔒 prioritized planning
+* 👣 time step-free encodings
