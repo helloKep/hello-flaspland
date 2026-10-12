@@ -8,12 +8,14 @@ Check out:
 * 🪧 [Poster](poster.pdf)
 * 🎞️ [Slides](slides.pdf)
 * 📃 [Research paper](paper.pdf)
+* 📘 [Textbook](textbook.pdf)
 
 ---
 
 Relevant repositories:
 * 🛤️ [flaspland toolkit](https://github.com/potassco/flaspland-toolkit)
 * 🛤️ [flaspland encodings](https://github.com/potassco/flaspland-encodings)
+* 🛤️ [krr-railway-research](https://github.com/krr-up/railway-research)
 
 ---
 
