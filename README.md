@@ -9,8 +9,8 @@ Flatland is a [railway scheduling challenge](https://flatland.aicrowd.com/intro.
 
 Check out:
 * 🪧 [Poster](poster.pdf)
-* 🎞️ [Slides](slides.pdf)
-* 📃 [Research paper](paper.pdf)
+* 🎞️ [Slides](slides/)
+* 📃 [Research paper](papers/)
 
 ---
 
