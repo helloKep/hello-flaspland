@@ -7,7 +7,7 @@ Flatland is a [railway scheduling challenge](https://flatland.aicrowd.com/intro.
 Check out:
 * 🪧 [Poster](poster.pdf)
 * 🎞️ [Slides](slides/)
-* 📃 [Research paper](papers/)
+* 📃 [Papers](papers/)
   * [LPNMR 2026](https://link.springer.com/chapter/10.1007/978-3-032-38320-4_22)
   * [ASPOCP 2026](https://ceur-ws.org/Vol-4311/ASPOCP_regular_04.pdf)
 * 📘 [Textbook](textbook.pdf)
